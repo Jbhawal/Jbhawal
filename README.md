@@ -1,15 +1,9 @@
-<!-- ![Header](./JBHeader.png) -->
+![Header](./banner.png)
 
-<h1 align="center">Hi 👋, I'm Joyita Bhawal</h1>
-<h3 align="center">CSE Undergraduate with a passion to build projects</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9FF3E9&center=true&vCenter=true&width=500&lines=Curious+%7C+Consistent+%7C+Creative;Open+Source+Contributor;Lifelong+Learner+in+Tech" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/Jbhawal/Jbhawal/assets/your-banner-id/banner.gif" alt="Joyita Bhawal Banner" width="100%"/>
-</p>
-
 
 - 🔭 I’m currently working on [a Complaint Management System](https://github.com/Jbhawal/Helpdesk)
 
