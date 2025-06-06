@@ -1,3 +1,5 @@
+<!-- ![Header](./JBHeader.png) -->
+
 <h1 align="center">Hi 👋, I'm Joyita Bhawal</h1>
 <h3 align="center">CSE Undergraduate with a passion to build projects</h3>
 <p align="center">
