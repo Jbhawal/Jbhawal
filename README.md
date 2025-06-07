@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a [Complaint Management System](https://github.com/Jbhawal/Helpdesk)
 
-- 🌱 Currently learning ** how databases work.**
+- 🌱 Currently learning **how databases work.**
 
 - 👨‍💻 Introducing myself to **Open Source Contributions**
 
