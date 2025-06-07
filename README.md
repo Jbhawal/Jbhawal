@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9FF3E9&center=true&vCenter=true&width=500&lines=Curious+%7C+Consistent+%7C+Creative;Open+Source+Contributor;Lifelong+Learner+in+Tech" />
 </p>
 
-- 🔭 I’m currently working on [a Complaint Management System](https://github.com/Jbhawal/Helpdesk)
+- 🔭 I’m currently working on a [Complaint Management System](https://github.com/Jbhawal/Helpdesk)
 
-- 🌱 I’m currently learning **working on databases**
+- 🌱 Currently learning ** how databases work.**
 
-- 👨‍💻 I’m introducing myself to **Open Source Contributions**
+- 👨‍💻 Introducing myself to **Open Source Contributions**
 
-- 🤝 I’m looking for help with [Atendance Tracker Website](https://github.com/Jbhawal/Attendance-Tracker)
+- 🤝 Looking for help with [Attendance Tracker Website](https://github.com/Jbhawal/Attendance-Tracker)
 
 - 📫 How to reach me **joyitabhawal@gmail.com**
 
